@@ -1,0 +1,16 @@
+D:\SharpDevelop Projects\cofe\cofe\bin\Debug\cofe.exe
+D:\SharpDevelop Projects\cofe\cofe\bin\Debug\cofe.pdb
+D:\SharpDevelop Projects\cofe\cofe\obj\Debug\ResolveAssemblyReference.cache
+D:\SharpDevelop Projects\cofe\cofe\obj\Debug\cofe.exe
+D:\SharpDevelop Projects\cofe\cofe\obj\Debug\cofe.pdb
+D:\SharpDevelop Projects\cofe\cofe\obj\Debug\cofe.MainForm.resources
+D:\SharpDevelop Projects\cofe\cofe\obj\Debug\GenerateResource.read.1.tlog
+D:\SharpDevelop Projects\cofe\cofe\obj\Debug\GenerateResource.write.1.tlog
+D:\SharpDevelop Projects\cofe\bin\Debug\cofe.exe
+D:\SharpDevelop Projects\cofe\bin\Debug\cofe.pdb
+D:\SharpDevelop Projects\cofe\obj\Debug\ResolveAssemblyReference.cache
+D:\SharpDevelop Projects\cofe\obj\Debug\cofe.MainForm.resources
+D:\SharpDevelop Projects\cofe\obj\Debug\GenerateResource.read.1.tlog
+D:\SharpDevelop Projects\cofe\obj\Debug\GenerateResource.write.1.tlog
+D:\SharpDevelop Projects\cofe\obj\Debug\cofe.exe
+D:\SharpDevelop Projects\cofe\obj\Debug\cofe.pdb
